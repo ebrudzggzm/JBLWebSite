@@ -5,4 +5,4 @@
 
 <p>Html,Css,Js,Scss Project</p>
 
-<img src="../jbl.gif">
+![](./jbl.gif)
